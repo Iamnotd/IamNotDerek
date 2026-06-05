@@ -8,7 +8,7 @@
 
 <h3>Estudiante de Informática | Futuro Ingeniero en Sistemas</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;C%2B%2B+Programmer;Future+Software+Engineer;Creator+of+FloraIntellect;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer;C%2B%2B+Programmer;Future+System+Engineer;Creator+of+FloraIntellect;Always+Learning+New+Technologies" />
 
 </div>
 
