@@ -97,7 +97,7 @@ Sistema inteligente para la gestión y monitoreo de plantas.
 
 ✔️ Contribuir a proyectos Open Source
 
-✔️ Estudiar Mecánica y Ciencias Políticas
+✔️ Estudiar Software y Ciberseguridad
 
 </div>
 
